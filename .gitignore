@@ -83,5 +83,5 @@ dkms.conf
 *.tlog
 *.lastbuildstate
 *.suo
-.vs/NDB_Algorithm/v15/
+.vs/Doodle_C/v15
 Debug/
